@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nahar 👋
 
-<!--
-**NaharVidulkar2208/NaharVidulkar2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Undergraduate at YCCE, Nagpur — Batch of 2029.
 
-Here are some ideas to get you started:
+I learn by building things. Currently learning DSA in Java
+and exploring how real software gets built from idea to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm working on
+
+**Focused** — A distraction-free DSA learning platform  
+576+ lectures from Kunal Kushwaha, Apna College & CodeWithHarry  
+in one structured, free environment.  
+🔗 [focused-dsa.vercel.app](https://focused-dsa.vercel.app)
+
+---
+
+### 🛠️ Currently Learning
+- DSA in Java
+- How real products get built and shipped
+
+---
+
+### 📫 Find me on
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-nahar--vidulkar-blue?style=flat&logo=linkedin)
+
+](https://www.linkedin.com/in/nahar-vidulkar)
